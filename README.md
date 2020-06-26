@@ -1,4 +1,6 @@
-# Whatsapp clone - Flutter
+# Instagram clone - Flutter
+
+## Warning - only for educational purpose
 
 UI (non functional) clone of Instagram, created in flutter
 
