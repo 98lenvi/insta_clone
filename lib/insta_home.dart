@@ -7,15 +7,8 @@ class InstaHome extends StatelessWidget{
   Widget build(BuildContext context) {
     // TODO: implement build
     return new Scaffold(
-      body: new TabBarView(children: [
-        new Center(
-        child: new Text("Camera", style: TextStyle(
-          fontSize: 16.0
-        ),),
-        ),
+      body:
         new InstaBody(),
-        new InstaChat(),
-      ]),
       bottomNavigationBar: new Container(
         color: Colors.white,
         height: 50.0,

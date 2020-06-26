@@ -3,6 +3,7 @@
 UI (non functional) clone of Instagram, created in flutter
 
 ## Screenshots
+![Navigation](./screenshots/3.gif)
 
 ![Home Screen](./screenshots/1.jpg)
 

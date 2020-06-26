@@ -51,7 +51,7 @@ class InstaList extends StatelessWidget{
             Flexible(
               fit: FlexFit.loose,
               child: new Image(
-                  image: new NetworkImage("https://lh3.googleusercontent.com/proxy/jviiZsuEBbYR8YqyC7FeGq2Vz0MabBFuLRcXx31N7mtgQL1i8V-nB8zW56bAQ7sPe_klArmz3zdzJwsHJclzPkrs5FsHxtuKJ3qzMHBA-rrVsg"),
+                  image: new NetworkImage("https://i.pinimg.com/originals/be/fe/f0/befef097ad9693aa220123560cbc89d2.jpg"),
                   fit: BoxFit.fill,
               )
             ),
